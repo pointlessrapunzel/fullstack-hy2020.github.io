@@ -1094,7 +1094,7 @@ export default toNewDiaryEntry;
 
 > #### A sidenote from the editor
 >
-> <i>If you are like me and hate having a code in broken state for a long time due to incomplete typing, you could star by "faking" the function: </i>
+> <i>If you are like me and hate having code in a broken state for a long time due to incomplete typing, you could start by "faking" the function: </i>
 >
 >
 >```js
@@ -1112,7 +1112,7 @@ export default toNewDiaryEntry;
 >};
 >```
 >
-> <i>So before the real data and types are ready to use, I'am just returning here something that has for the sure the right type. The code stays in a operational state all the time and my blood pressure remains in normal level. </i>
+> <i>So before the real data and types are ready to use, I am just returning here something that certainly has the right type. The code stays in an operational state all the time and my blood pressure remains at a normal level. </i>
 
 ### Type guards
 
